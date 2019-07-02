@@ -27,7 +27,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
+<!-- Test1 -->
   <build>
     <finalName>SampleProject</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
